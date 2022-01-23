@@ -1,0 +1,16 @@
+1) navbar: logo তে abaacus থাকা যাবে না + menu optional ||
+2) carousel: must থাকতে হবে।minimum ৩টা image থাকতে হবে । কিছু লিখা থাকতে হবে। btn থাকতে হবে এবং ক্লিক করলে অন্য page এ নিয়ে যেতে হবে UNDERSTAND ||
+3) PRECIOUS MOMENTS: OPTIONAL কিন্তু এর বাইরে যেকোন design বসাতে থবে
+4) OUR PACKAGE: ১০০% same to same থাকতে হবে। একটা থাকবে highlight করা এবং badge থাকবে ok ||
+5) happy clients: OPTIONAL কিন্তু এর বাইরে যেকোন design বসাতে থবে
+6) frequent asked quesstion: accordion must থাকতে হবে। পিক থাকবে question করতেছে related
+7) footer: 100% same থাকবে এবং must must 2টা appstore এর linked pik থাকবে যেখানে ক্লিক করলে ঐ company এর কোন একটা app এর page e নিয়ে যেতে হবে।
+
+
+special 10 marks:
+
+i) 3 and 5 no optional এর বাইরে যেকোন দুইটা design বসাতে পারলে
+ii) section by section commit করলে minimum 5 time commit করলে 
+iii) any google font, icon
+iv) একটা cancell able toast effect use করতে হবে
+v) 
