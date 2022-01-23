@@ -11,3 +11,9 @@ body {
 .h-100vh{
     height: 100vh;
 }
+.rounded-lg{
+    border-radius: 25px;
+}
+.end-25px{
+    right: 0px;
+}
